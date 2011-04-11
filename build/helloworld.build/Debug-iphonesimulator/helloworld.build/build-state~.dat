@@ -1,0 +1,264 @@
+Thelloworld
+v7
+r0
+t301191367.778468
+cCheck dependencies
+cProcessInfoPlistFile /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/Info.plist helloworld-Info.plist
+cCompileXIB /Users/lesscome/dev/testpjt/helloworld/MainWindow.xib
+cCompileXIB /Users/lesscome/dev/testpjt/helloworld/RootViewController.xib
+cProcessPCH /var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch.gch helloworld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/main.o /Users/lesscome/dev/testpjt/helloworld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworldAppDelegate.o /Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/RootViewController.o /Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld normal i386
+cGenerateDSYMFile /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app.dSYM /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld
+cTouch /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C4395700000000000000132
+t1279497584
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.h
+c000000004C43992500000000000000E9
+t1279498533
+s233
+i<UIKit/UIKit.h>
+
+N/Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m
+c000000004C43992500000000000010C1
+t1279498533
+s4289
+i"RootViewController.h"
+
+N/Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.h
+c000000004C43992500000000000001D7
+t1279498533
+s471
+i<UIKit/UIKit.h>
+
+N/Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m
+c000000004C4399250000000000000AA4
+t1279498533
+s2724
+i"helloworldAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/lesscome/dev/testpjt/helloworld/MainWindow.xib
+c000000004C4399250000000000006000
+t1279498533
+s24576
+
+N/Users/lesscome/dev/testpjt/helloworld/RootViewController.xib
+c000000004C4399250000000000004455
+t1279498533
+s17493
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app
+t1279498567
+s238
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app.dSYM
+t1279498567
+s102
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/Info.plist
+t1279498566
+s603
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/MainWindow.nib
+t1279498566
+s1512
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/PkgInfo
+t1279498566
+s8
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/RootViewController.nib
+t1279498566
+s979
+
+N/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld
+t1279498567
+s18108
+
+N/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/RootViewController.o
+t1279498567
+s38056
+
+N/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworld.LinkFileList
+c000000004C439946000000000000019F
+t1279498566
+s415
+
+N/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworldAppDelegate.o
+t1279498567
+s49552
+
+N/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/main.o
+t1279498567
+s6304
+
+N/Users/lesscome/dev/testpjt/helloworld/helloworld_Prefix.pch
+c000000004C4399250000000000000146
+t1279498533
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/lesscome/dev/testpjt/helloworld/main.m
+c000000004C4399250000000000000167
+t1279498533
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch.gch
+t1279498567
+s15232016
+
+Nhelloworld-Info.plist
+c000000004C439925000000000000038D
+t1279498533
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301191366#301191366#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/RootViewController.o /Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301191367.558365
+e301191367.613839
+r1
+xCompileC
+xbuild/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/RootViewController.o
+x/Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m301191367#301191367#0(0"0(0#0#67"/Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m8606867136#1997"    cd /Users/lesscome/dev/testpjt/helloworld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-generated-files.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-own-target-headers.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-all-target-headers.hmap -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-project-headers.hmap -F/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator -I/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/include -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources/i386 -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources -include /var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch -c /Users/lesscome/dev/testpjt/helloworld/Classes/RootViewController.m -o /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworldAppDelegate.o /Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301191367.402778
+e301191367.579260
+r1
+xCompileC
+xbuild/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworldAppDelegate.o
+x/Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m301191367#301191367#0(0"0(0#0#70"/Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m8596280096#2003"    cd /Users/lesscome/dev/testpjt/helloworld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-generated-files.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-own-target-headers.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-all-target-headers.hmap -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-project-headers.hmap -F/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator -I/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/include -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources/i386 -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources -include /var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch -c /Users/lesscome/dev/testpjt/helloworld/Classes/helloworldAppDelegate.m -o /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworldAppDelegate.o0#
+
+CCompileC build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/main.o /Users/lesscome/dev/testpjt/helloworld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301191367.401691
+e301191367.558281
+r1
+xCompileC
+xbuild/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/main.o
+x/Users/lesscome/dev/testpjt/helloworld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/lesscome/dev/testpjt/helloworld/main.m301191367#301191367#0(0"0(0#0#45"/Users/lesscome/dev/testpjt/helloworld/main.m8598095680#1961"    cd /Users/lesscome/dev/testpjt/helloworld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-generated-files.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-own-target-headers.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-all-target-headers.hmap -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-project-headers.hmap -F/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator -I/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/include -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources/i386 -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources -include /var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch -c /Users/lesscome/dev/testpjt/helloworld/main.m -o /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/lesscome/dev/testpjt/helloworld/MainWindow.xib
+s301191366.318028
+e301191366.763413
+r1
+xCompileXIB
+x/Users/lesscome/dev/testpjt/helloworld/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib301191366#301191366#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/lesscome/dev/testpjt/helloworld/MainWindow.xib8606809984#573"    cd /Users/lesscome/dev/testpjt/helloworld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/MainWindow.nib /Users/lesscome/dev/testpjt/helloworld/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/lesscome/dev/testpjt/helloworld/RootViewController.xib
+s301191366.319979
+e301191366.763571
+r1
+xCompileXIB
+x/Users/lesscome/dev/testpjt/helloworld/RootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB RootViewController.xib301191366#301191366#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#61"/Users/lesscome/dev/testpjt/helloworld/RootViewController.xib8607143744#589"    cd /Users/lesscome/dev/testpjt/helloworld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/RootViewController.nib /Users/lesscome/dev/testpjt/helloworld/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app.dSYM /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld
+s301191367.730591
+e301191367.763714
+r1
+xGenerateDSYMFile
+x/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app.dSYM
+x/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/helloworld.app.dSYM build/Debug-iphonesimulator/helloworld.app/helloworld301191367#301191367#0(0"0(0#0#92"/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld8606841376#392"    cd /Users/lesscome/dev/testpjt/helloworld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld -o /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app.dSYM0#
+
+CLd /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld normal i386
+s301191367.613914
+e301191367.730510
+r1
+xLd
+x/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld
+xnormal
+xi386
+lSLF07#2@97"Link /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld301191367#301191367#0(0"0(0#0#0"8606427424#915"    cd /Users/lesscome/dev/testpjt/helloworld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator -F/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator -filelist /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/Objects-normal/i386/helloworld.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/helloworld0#
+
+CProcessInfoPlistFile /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/Info.plist helloworld-Info.plist
+s301191366.286797
+e301191366.317944
+r1
+xProcessInfoPlistFile
+x/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/Info.plist
+xhelloworld-Info.plist
+lSLF07#2@29"Process helloworld-Info.plist301191366#301191366#0(0"0(0#0#60"/Users/lesscome/dev/testpjt/helloworld/helloworld-Info.plist31244169098821736#488"    cd /Users/lesscome/dev/testpjt/helloworld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility helloworld-Info.plist -genpkginfo /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app/Info.plist0#
+
+CProcessPCH /var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch.gch helloworld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301191366.763817
+e301191367.401588
+r1
+xProcessPCH
+x/var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch.gch
+xhelloworld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile helloworld_Prefix.pch301191366#301191367#0(0"0(0#0#60"/Users/lesscome/dev/testpjt/helloworld/helloworld_Prefix.pch8605341760#1850"    cd /Users/lesscome/dev/testpjt/helloworld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-generated-files.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-own-target-headers.hmap -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-all-target-headers.hmap -iquote /Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/helloworld-project-headers.hmap -F/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator -I/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/include -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources/i386 -I/Users/lesscome/dev/testpjt/helloworld/build/helloworld.build/Debug-iphonesimulator/helloworld.build/DerivedSources -c /Users/lesscome/dev/testpjt/helloworld/helloworld_Prefix.pch -o /var/folders/C0/C0ZTNDyEFRe1EIPVeAQ8NE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/helloworld_Prefix-fcterkfnytvokhdqipirzltlcafq/helloworld_Prefix.pch.gch0#
+
+CTouch /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app
+s301191367.763792
+e301191367.778422
+r1
+xTouch
+x/Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app
+lSLF07#2@87"Touch /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app301191367#301191367#0(0"0(0#0#0"8606684608#281"    cd /Users/lesscome/dev/testpjt/helloworld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lesscome/dev/testpjt/helloworld/build/Debug-iphonesimulator/helloworld.app0#
+
